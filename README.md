@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on AI+System
-- 🌱 I’m currently learning many things :)
+- 🎓 I will graduate from UMich this May and join Princeton next fall.
 - 📫 How to reach me: email or twitter. I am active online.
 - 😄 Pronouns: Yinwei, easy right?
 
