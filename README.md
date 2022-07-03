@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email or twitter. I am active online.
 - 😄 Pronouns: Yinwei, easy right?
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dywsjtu&margin-w=5&row=1&column=7" alt="dywsjtu" /></a> </p>
