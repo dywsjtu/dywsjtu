@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on AI+System
-- 🎓 I will graduate from UMich this May and join Princeton next fall.
+- 🔭 I will be a CS Phd student Princeton University start from FA 2022
+- 🎓 I graduated from UMich and SJTU.
 - 📫 How to reach me: email or twitter. I am active online.
 - 😄 Pronouns: Yinwei, easy right?
 
