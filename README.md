@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I will be a CS Phd student Princeton University start from FA 2022
+- 🔭 I am a CS Phd student Princeton University
 - 🎓 I graduated from UMich and SJTU.
 - 📫 How to reach me: email or twitter. I am active online.
 - 😄 Pronouns: Yinwei, easy right?
