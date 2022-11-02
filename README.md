@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/dai_yinwei"> <img src="https://img.shields.io/twitter/follow/dai_yinwei?color=%23f&logo=twitter&style=plastic"  height="25px" alt="Yinwei Dai's Twitter"> </a>
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dywsjtu&margin-w=5&row=1&column=5" alt="dywsjtu" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dywsjtu&margin-w=5&row=1&column=5" alt="dywsjtu" /></a> </p> -->
