@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I am a CS Phd student Princeton University
+- 🔭 I am a CS PhD student at Princeton University
 - 🎓 I graduated from UMich and SJTU.
-- 📫 How to reach me: email or twitter. I am active online.
+- 📫 How to reach me: email or Twitter. I am active online.
 - 😄 Pronouns: Yinwei, easy right?
 
 
